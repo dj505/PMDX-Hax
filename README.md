@@ -19,7 +19,7 @@ This is my first romhack for the game. Here's a list of most of the changes:
 - A few more things
 
 TODO:
-[ ] Actually add full custom songs
-[ ] Make the game not crash too often
-[ ] Fix 'No Logic' (currently either crashes or is nightmare fuel)
-[x] Proper playstation buttons (Done! The old ones looked terrible)
+- [ ] Actually add full custom songs
+- [ ] Make the game not crash too often
+- [ ] Fix 'No Logic' (currently either crashes or is nightmare fuel)
+- [x] Proper playstation buttons (Done! The old ones looked terrible)
